@@ -11,3 +11,6 @@ This project is a simple React application featuring a responsive navigation bar
 #### React Router for navigation
 
 #### Clickable links for different pages
+
+#### Milestone 16 
+Product Page is created and put dummy data 
